@@ -6,7 +6,7 @@ function search() {
     var result = document.getElementById("result");
     
     if(getuserInp.value == ""){
-        getMesseage.innerText = `Please Fill The Field`
+        getMesseage.innerText = `Please Fill The Field.`
     }
     else{
         
